@@ -6,9 +6,9 @@ Welcome to the official repository for my assignments submitted as part of the *
 
 ## 👤 Student Information
 
-- **Name:**  
-- **Registration No.:**  23BCE10
-- **Email:** @vitbhopal.ac.in
+- **Name: Tejashwee Raman
+- **Registration No.: 22BOE10014
+- **Email: tejashweeraman2022@vitbhopal.ac.in
 - **Institute:** VIT Bhopal
 
 ---
